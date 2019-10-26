@@ -5,7 +5,7 @@
     "name": "Android",
     "option_android_application_tag_inject": "",
     "option_android_arch_arm64": true,
-    "option_android_arch_armv7": false,
+    "option_android_arch_armv7": true,
     "option_android_arch_x86": false,
     "option_android_arch_x86_64": false,
     "option_android_build_tools": "28.0.3",
