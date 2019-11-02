@@ -2,7 +2,7 @@
     "id": "3da49691-47e4-488a-bd3f-8fab1df9007d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_opening_controller",
+    "name": "obj_opening_timer",
     "eventList": [
         {
             "id": "e238c0bf-50b8-4bef-ae7c-de1a8c941006",

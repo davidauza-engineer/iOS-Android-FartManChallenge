@@ -74,7 +74,7 @@
             "Key": "3da49691-47e4-488a-bd3f-8fab1df9007d",
             "Value": {
                 "id": "51768f8b-029d-4a16-9979-7ec02a16efea",
-                "resourcePath": "objects\/obj_opening_controller\/obj_opening_controller.yy",
+                "resourcePath": "objects\/obj_opening_timer\/obj_opening_timer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -236,6 +236,14 @@
                 "id": "ff7a79ad-6064-4be9-8f9b-d48bab521f2f",
                 "resourcePath": "views\/ad5a307a-517b-4f16-9d5d-4680b9d40c46.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b670e8ba-0362-4b60-86f6-86e11c8f025d",
+            "Value": {
+                "id": "64939bb0-df70-4d96-868d-c76142755fec",
+                "resourcePath": "rooms\/rm_main_menu\/rm_main_menu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
