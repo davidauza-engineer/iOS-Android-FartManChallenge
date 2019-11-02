@@ -29,7 +29,7 @@
     "option_ios_icon_iphone_spotlight_120": "${base_options_dir}\\ios\\icons\\spotlight\\iphone_120.png",
     "option_ios_icon_iphone_spotlight_80": "${base_options_dir}\\ios\\icons\\spotlight\\iphone_80.png",
     "option_ios_icon_itunes_artwork_1024": "${base_options_dir}\\ios\\icons\\itunes\\itunes_1024.png",
-    "option_ios_interpolate_pixels": false,
+    "option_ios_interpolate_pixels": true,
     "option_ios_orientation_landscape": true,
     "option_ios_orientation_landscape_flipped": true,
     "option_ios_orientation_portrait": true,
