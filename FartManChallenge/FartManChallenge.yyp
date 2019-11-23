@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "44056d01-5677-478f-b808-b16b864573b0",
+            "Value": {
+                "id": "fbb91544-851f-40ae-81da-c3bc3816f995",
+                "resourcePath": "objects\/obj_copyright_notice\/obj_copyright_notice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4be4b6a4-1109-4d2a-8ca0-839823ff274f",
             "Value": {
                 "id": "0dd20351-a820-465e-a41b-a486f9b4775c",
