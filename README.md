@@ -122,6 +122,6 @@ Please keep in mind that:
 
 If you have any questions regarding this project, feel free to contact [David Auza](https://github.com/davidauza-engineer) by clicking [here](mailto:davidauza@icloud.com?subject=GitHub%20-%20FartManChallenge).
 
-<br><br>
+<br>
 
 Copyright © 2018-2019 [David Auza](https://github.com/davidauza-engineer) and [Kevin Rincon](https://www.linkedin.com/in/kevin-rincón-15210713a/). All rights reserved.
