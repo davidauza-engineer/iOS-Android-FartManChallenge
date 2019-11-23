@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "9ac31598-72e3-40b7-b4eb-1f0082ce8042",
+            "Value": {
+                "id": "b769f260-e1df-48ce-893a-bd5fe8c8103d",
+                "resourcePath": "fonts\/fnt_copyright_notice\/fnt_copyright_notice.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "9df29d00-b4f0-4bb1-9ee3-f0b35f198d93",
             "Value": {
                 "id": "f3bced03-0f6d-4894-8952-d76c831b309e",
