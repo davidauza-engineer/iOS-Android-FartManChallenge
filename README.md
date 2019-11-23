@@ -30,35 +30,45 @@ You will need to clearly indicate the author of every piece contained in the pul
 
 ### Naming Resources
 
+#### Fonts
+
+Use `fnt_` prefix, downcase letters and no spaces (use `_` instead).
+
+Example: `fnt_copyright_notice`.
+
 #### Objects
 
-Use `obj_` prefix, downcase letters, no spaces(use `_` instead).
+Use `obj_` prefix, downcase letters and no spaces (use `_` instead).
 
 Example: `obj_fartman`.
 
+Remember to put the newly created objects inside one of the categories created: main_menu, opening, models, etc.
+
 #### Rooms
 
-Use `rm_` prefix, downcase letters, no spaces(use `_` instead).
+Use `rm_` prefix, downcase letters and no spaces (use `_` instead).
 
 Example: `rm_main_menu`.
 
 #### Sounds
 
-Use `snd_` prefix, downcase letters, no spaces(use `_` instead).
+Use `snd_` prefix, downcase letters and no spaces (use `_` instead).
 
 Example: `snd_tap`.
 
-Sounds must be classified in one of the following groups in the resources tree: **Opening**
+Remember to put the newly added sounds inside one of the categories created: opening, soundtrack, etc.
+
+While adding a new sound you must set its attributes according to the recommendations found here: [Optimizing Your Games Article](https://help.yoyogames.com/hc/en-us/articles/216754778-Optimizing-Your-Games). Attributes options are: Uncompressed - Not Streamed, Compressed - Not Streamed, Uncompress on Load - Not Streamed, and, Compressed - Streamed.
 
 #### Sprites
 
-Use `spr_` prefix, downcase letters, no spaces(use `_` instead).
+Use `spr_` prefix, downcase letters and no spaces (use `_` instead).
 
 Example: `spr_fartman`.
 
-Sprites must be classified in one of the following groups in the resources tree: **Backgrounds**
+Remember to put the newly added sprites inside one of the categories created: backgrounds, fartman, buttons, etc.
 
-Every sprite must be added to a texture group as suggested in the [Optimizing Your Games Article](https://help.yoyogames.com/hc/en-us/articles/216754778-Optimizing-Your-Games).
+Every sprite must be added to its corresponding texture group as suggested in the [Optimizing Your Games Article](https://help.yoyogames.com/hc/en-us/articles/216754778-Optimizing-Your-Games).
 
 ## Optimization Guidelines
 
@@ -68,11 +78,11 @@ Please follow all the suggestions contained in the official [Optimizing Your Gam
 
 1. What do I get from contributing?
 
-Your name will appear in the in-game credits and also in this repository. You could start a career as a game developer here or doing it just for fun.
+Your name will appear in the in-game credits and also in this repository. You could start a career as a game developer, build your portfolio with this project or doing it just for fun.
 
 2. If I make a very important contribution could I expect some rights over the game?
 
-[David Auza](https://github.com/davidauza-engineer) would evaluate if your contribution is important enough to make an impact on the gaming community and could give you some rights over the game. Written confirmation would be needed.
+[David Auza](https://github.com/davidauza-engineer) would evaluate if your contribution is important enough to make an impact on the users and could give you some rights over the game. Written confirmation would be needed.
 
 3. Could I get a different license to use the content of this project?
 
@@ -80,7 +90,7 @@ Yes, you could, you would need to contact [David Auza](https://github.com/davida
 
 4. Will I get any kind of economic compensation for contributing to this project?
 
-No. If you decide to contribute to this project you do it because you like it because you want to build a portfolio, or just for fun. No economic compensation will be given in any case.
+No. If you decide to contribute to this project you do it because you like it because you want to build your portfolio, or just for fun. No economic compensation will be given in any case.
 
 ## Legal Notice
 
@@ -96,7 +106,7 @@ Please keep in mind that:
 
 5. [David Auza](https://github.com/davidauza-engineer) and [Kevin Rincon](https://www.linkedin.com/in/kevin-rincón-15210713a/) are the owners of most of the graphical assets of the game. They entirely reserve the use of the characters, animations, brands and other graphical assets contained in this game, and reserves the rights of exploitation that may be derived from them.
 
-6. Most of the sounds were obtained under license by [David Auza](https://github.com/davidauza-engineer) from [Audioblocks](https://www.audioblocks.com). If you would like to use some of those sounds outside this project you would need to get a license from [Audioblocks](https://www.audioblocks.com) directly.
+6. Most of the sounds contained in the game were obtained under license by [David Auza](https://github.com/davidauza-engineer) from [Audioblocks](https://www.audioblocks.com). If you would like to use some of those sounds outside this project you would need to get a license from [Audioblocks](https://www.audioblocks.com) directly.
 
 7. Some of the graphical assets used in this game were obtained under license and modified from [Freepik](https://www.freepik.com). You may use some of the assets provided there to create new scenarios, characters, enemies, etc. But remember to follow their terms and conditions, especially regarding attributing them when using their assets.
 
