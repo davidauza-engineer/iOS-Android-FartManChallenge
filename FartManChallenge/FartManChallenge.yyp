@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "371534f1-26b4-4b6f-a34f-7e4d5338ed35",
+            "Value": {
+                "id": "2221a823-e756-4789-9362-73eca7b4658b",
+                "resourcePath": "sprites\/spr_rm_main_menu_floor_background\/spr_rm_main_menu_floor_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "37d46387-4a5c-45f9-acac-d84b38dd25ae",
             "Value": {
                 "id": "c0e8505b-9f28-4f02-a49a-5d504eab9f29",
