@@ -95,6 +95,22 @@
             }
         },
         {
+            "Key": "52c8c4a7-5ed6-4100-8759-f65ab48e50ff",
+            "Value": {
+                "id": "f088bed7-394c-4ee0-a202-b6320866b404",
+                "resourcePath": "objects\/obj_main_menu_title\/obj_main_menu_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "56a93898-c79f-44e7-ada5-010b1d15b63d",
+            "Value": {
+                "id": "fe36dabf-65ce-4185-83de-e2379451abb3",
+                "resourcePath": "views\/56a93898-c79f-44e7-ada5-010b1d15b63d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6243d6a8-997b-4d6c-8c27-0e29875750c8",
             "Value": {
                 "id": "beba7269-8105-4ee2-80a2-c7a087cd1e49",
@@ -171,6 +187,14 @@
             "Value": {
                 "id": "4295b7e6-c7cf-4910-b022-1135ca807c0c",
                 "resourcePath": "views\/875eae4e-5649-4c03-a016-30cc066a7ab3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "87efe9c8-8f5c-4e90-b948-2046223f2253",
+            "Value": {
+                "id": "a50d794e-1a8c-4098-b1c5-58514429a48d",
+                "resourcePath": "views\/87efe9c8-8f5c-4e90-b948-2046223f2253.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -276,6 +300,14 @@
                 "id": "4380d6e4-7bdf-4d09-af0c-3816971e8ab4",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d186bad1-aa54-40e4-a962-8b5148c0e7e3",
+            "Value": {
+                "id": "0122c0a5-7876-4a2d-872e-694fe4306493",
+                "resourcePath": "sprites\/spr_main_menu_title\/spr_main_menu_title.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
