@@ -13,7 +13,22 @@
                     "id": "3d90d8ee-29d6-4b40-9dc3-e7285e772488",
                     "modelName": "GMTextureGroup",
                     "mvc": "1.0",
-                    "groupName": "Opening",
+                    "groupName": "opening",
+                    "targets": 461609314234257646,
+                    "autocrop": true,
+                    "border": 2,
+                    "groupParent": "00000000-0000-0000-0000-000000000000",
+                    "mipsToGenerate": 0,
+                    "scaled": true
+                }
+            },
+            {
+                "Key": 2,
+                "Value": {
+                    "id": "481e4a80-0452-4b65-9a66-004e39a6c027",
+                    "modelName": "GMTextureGroup",
+                    "mvc": "1.0",
+                    "groupName": "main_menu",
                     "targets": 461609314234257646,
                     "autocrop": true,
                     "border": 2,

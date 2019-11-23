@@ -8,7 +8,7 @@
         "6b2ecf36-df62-4193-a4dd-c26f7ade4918"
     ],
     "filterType": "GMSound",
-    "folderName": "Opening",
+    "folderName": "opening",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
