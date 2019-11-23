@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "8638d920-1ae5-43d6-bcdf-09c6b7d88ad4",
+            "Value": {
+                "id": "f5fb9d13-7bb7-4e33-a5cb-56c21fd973bf",
+                "resourcePath": "objects\/obj_fartman_main_menu\/obj_fartman_main_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "86d8b9f9-a09e-4259-af3a-43d7177008d4",
             "Value": {
                 "id": "24515a86-b6e9-4b34-9db6-3558c1218d07",
@@ -228,6 +236,14 @@
                 "id": "07a4311e-51cc-4fd0-a3e6-d6b975d55b89",
                 "resourcePath": "options\/tvos\/options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "951a83f6-c450-4665-869c-6c67d884ba5f",
+            "Value": {
+                "id": "b8712614-2baa-4cc8-a2b6-b34f0039f4b5",
+                "resourcePath": "views\/951a83f6-c450-4665-869c-6c67d884ba5f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -324,6 +340,14 @@
                 "id": "dc44f841-e0b8-4b89-b637-72b7941550d1",
                 "resourcePath": "options\/android\/options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e4429026-7240-4800-8587-834a7b9d9650",
+            "Value": {
+                "id": "a1674d0c-642a-4aff-bae4-ee41050da2fb",
+                "resourcePath": "sprites\/spr_fartman_flying\/spr_fartman_flying.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
